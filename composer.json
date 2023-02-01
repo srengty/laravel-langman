@@ -1,9 +1,15 @@
 {
-    "name": "themsaid/laravel-langman",
+    "name": "srengty/laravel-langman",
     "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
     "homepage": "https://github.com/themsaid/laravel-langman",
     "license": "MIT",
+    "type": "library",
+    "version": "1.3.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/srengty/laravel-langman.git"
+    },
     "authors": [
         {
             "name": "Mohamed Said",
